@@ -8,12 +8,12 @@
 
 - 💬 Mobile Application Developer with a strong focus on Flutter, building cross-platform applications for iOS and Android. Passionate about creating clean, scalable, and user-focused products from concept to deployment.
 - Technologies
-  Flutter & Dart
-  Firebase
-  REST APIs
-  State Management (Bloc, Provider, Riverpod)
-  Git 
-  Kotlin - native integrations
+  - Flutter & Dart
+  - Firebase
+  - REST APIs
+  - State Management (Bloc, Provider, Riverpod)
+  - Git 
+  - Kotlin - native integrations
 
 - 📫 How to reach me **desilva.info@gmail.com**
 
