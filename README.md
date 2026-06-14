@@ -11,7 +11,7 @@
   - Flutter & Dart
   - Firebase
   - REST APIs
-  - State Management (Bloc, Provider, Riverpod)
+  - State Management (Provider, Riverpod, Bloc)
   - Git 
   - Kotlin - native integrations
 
