@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalmdev&label=Profile%20views&color=0e75b6&style=flat" alt="amalmdev" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers"> <img src="https://github-profile-trophy.vercel.app/?username=amalmdev" alt="amalmdev" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars"> <img src="https://github-profile-trophy.vercel.app/?username=amalmdev" alt="amalmdev" /></a> </p>
 
 - 💬 Mobile Application Developer with a strong focus on Flutter, building cross-platform applications for iOS and Android. Passionate about creating clean, scalable, and user-focused products from concept to deployment.
 - Technologies
