@@ -32,4 +32,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=amalmdev&show_icons=true&locale=en" alt="amalmdev" />
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amalmdev&" alt="amalmdev" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amalmdev&" alt="amalmdev" />
